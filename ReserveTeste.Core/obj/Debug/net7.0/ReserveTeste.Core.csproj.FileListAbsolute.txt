@@ -1,0 +1,12 @@
+D:\Estudos\ReserveTeste\ReserveTeste.Core\obj\Debug\net7.0\ReserveTeste.Core.csproj.AssemblyReference.cache
+D:\Estudos\ReserveTeste\ReserveTeste.Core\obj\Debug\net7.0\ReserveTeste.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ReserveTeste\ReserveTeste.Core\obj\Debug\net7.0\ReserveTeste.Core.AssemblyInfoInputs.cache
+D:\Estudos\ReserveTeste\ReserveTeste.Core\obj\Debug\net7.0\ReserveTeste.Core.AssemblyInfo.cs
+D:\Estudos\ReserveTeste\ReserveTeste.Core\obj\Debug\net7.0\ReserveTeste.Core.csproj.CoreCompileInputs.cache
+D:\Estudos\ReserveTeste\ReserveTeste.Core\bin\Debug\net7.0\ReserveTeste.Core.deps.json
+D:\Estudos\ReserveTeste\ReserveTeste.Core\bin\Debug\net7.0\ReserveTeste.Core.dll
+D:\Estudos\ReserveTeste\ReserveTeste.Core\bin\Debug\net7.0\ReserveTeste.Core.pdb
+D:\Estudos\ReserveTeste\ReserveTeste.Core\obj\Debug\net7.0\ReserveTeste.Core.dll
+D:\Estudos\ReserveTeste\ReserveTeste.Core\obj\Debug\net7.0\refint\ReserveTeste.Core.dll
+D:\Estudos\ReserveTeste\ReserveTeste.Core\obj\Debug\net7.0\ReserveTeste.Core.pdb
+D:\Estudos\ReserveTeste\ReserveTeste.Core\obj\Debug\net7.0\ref\ReserveTeste.Core.dll

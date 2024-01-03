@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZPFKNJ4TJRWoIaBEwLDrpYrZbSsrgrkQ0YN0tKn+fwo=",
+  "Source": "ReserveTeste.Api",
+  "BasePath": "_content/ReserveTeste.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

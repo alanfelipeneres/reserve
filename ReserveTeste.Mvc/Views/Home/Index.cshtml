@@ -1,0 +1,29 @@
+﻿@using ReserveTeste.Core.Model;
+@model IEnumerable<CountryResponse>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Posição no ranking</th>
+                <th>Casos de Covid-19</th>
+            </tr>
+        </thead>
+        <tbody>
+
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Ranking</td>
+                    <td>@item.Count</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
